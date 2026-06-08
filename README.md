@@ -6,6 +6,7 @@
 คือ root กับ hotel-backend
 
 pathที่พี่ลงไว้\hotel-maintenance-service\
+
 pathที่พี่ลงไว้\hotel-maintenance-service\hotel-backend
 
 พอ npm install ทั้งสองทีเสร็จ ก็ ทำการรันlocalhost ด้วย คำสั่ง npm run dev 
