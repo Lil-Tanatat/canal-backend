@@ -1,6 +1,7 @@
 # วิธีติดตั้ง
 
 หลักๆคือต้องexport ไฟล์ hotel.qsql ที่ผมแทกมาใน โฟลเดอร์ githud ไป import ไว้ใน myphpadmin
+
 หลักจากนั้น run APACHE & SQL ก่อนแล้วรันเซิฟด้วย cmd รัน คำสั่ง npm install   สองที
 คือ root กับ hotel-backend
 
