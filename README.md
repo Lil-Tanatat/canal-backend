@@ -3,8 +3,9 @@
 หลักๆคือต้องexport ไฟล์ hotel.qsql ที่ผมแทกมาใน โฟลเดอร์ githud ไป import ไว้ใน myphpadmin
 หลักจากนั้น run APACHE & SQL ก่อนแล้วรันเซิฟด้วย cmd รัน คำสั่ง npm install   สองที
 คือ root กับ hotel-backend
-``` pathที่พี่ลงไว้\hotel-maintenance-service\
-``` pathที่พี่ลงไว้\hotel-maintenance-service\hotel-backend
+
+pathที่พี่ลงไว้\hotel-maintenance-service\
+pathที่พี่ลงไว้\hotel-maintenance-service\hotel-backend
 
 พอ npm install ทั้งสองทีเสร็จ ก็ ทำการรันlocalhost ด้วย คำสั่ง npm run dev 
 จากนั้นเปิด http://localhost:5173/ เอาครับผม
